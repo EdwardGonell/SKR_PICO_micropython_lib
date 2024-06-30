@@ -7,4 +7,4 @@ of fault since I barely have any knowledge in programing.
 
 I'll be using some libraries already available here on github to be able to comunicate with the four TMC2209's the board has.
 As of now I have the X "axis" working, have not yet tried to use several motors at the same times and I'm building on top
-of kjk25's library which is an adaptation of Chr157i4n's TMC2209 library.
+of kjk25's [TMC2209_ESP32](https://github.com/kjk25/TMC2209_ESP32) library which is an adaptation of [Chr157i4n's TMC2209_Raspberry_Pi](https://github.com/Chr157i4n/TMC2209_Raspberry_Pi).
